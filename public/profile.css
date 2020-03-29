@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color:green;
+}
+.col-sm-6{
+  width:100%;
+}
+section{
+  width:30%;
+  float:left;
+}
+h3{
+  text-decoration: underline;
+}
+section span{
+  font-size: 50px;
+}
+.last{
+  margin-top:30px;
+}

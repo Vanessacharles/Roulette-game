@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:200px;
+  word-wrap:break-word;
+  background-color:green;
+  color:white;
+}
+.jumbotron{
+  background-image:url(img/back.jpg);
+  background-repeat:round;
+}
+p{
+  font-weight:bold;
+}
+a:last-of-type{
+  text-align: center;
+  /* margin-left:50%; */
+}
